@@ -1,0 +1,19 @@
+.hourAndImage{
+    margin-top:100px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    }
+    
+    .image{
+    width: 200px;
+    height: 200px;
+    }
+    
+    .image img{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    }
